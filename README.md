@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prudhvi 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer · B.Tech CSE 2026 · Nellore, Andhra Pradesh</b>
+  <b>Frontend Developer · B.Tech CSE 2026 · Kadiri, Andhra Pradesh</b>
 </p>
 
 <p align="center">
