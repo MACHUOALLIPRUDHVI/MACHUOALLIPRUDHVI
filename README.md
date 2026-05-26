@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prudhvi 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer · B.Tech CSE 2026 ·, Andhra Pradesh</b>
+  <b>Frontend Developer · B.Tech CSE 2026 · Nellore, Andhra Pradesh</b>
 </p>
 
 <p align="center">
@@ -12,9 +12,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year B.Tech Computer Science student (2026)
+- 🎓 Final-year B.Tech Computer Science student @ **Mohan Babu University, Tirupati** (2022–2026)
 - 💻 Focused on **Frontend Development** — HTML, CSS, JavaScript, React
 - 🌱 Currently learning **React (with Vite)** and component-based design
+- 💡 **3× Patent Holder** — AI, Renewable Energy & Robotics (before graduation!)
 - 🎯 Actively seeking **Frontend / Web Developer** roles in the Indian IT industry
 - 🏠 Based in **Nellore, Andhra Pradesh**
 
@@ -29,17 +30,36 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🗺️ Trip Budget Planner
+### ✈️ Trip Budget Planner
 > A web app to plan trips, track expenses, and manage travel budgets efficiently.
-
 - Built with HTML, CSS, JavaScript
-- Features expense tracking and budget summaries
 - 🔗 [View Repository](https://github.com/MACHUOALLIPRUDHVI/trip-budget-planner)
+
+### 🔋 EV Battery Management System Using AI *(Patent: 202541038428)*
+> AI-powered system to optimize EV battery charge cycles, predict failures, and extend battery life using ML.
+
+### ⚡ Energy from Rotational Motors *(Patent: 202541015013)*
+> Innovative energy harvesting system converting rotational motion into usable electrical energy.
+
+### 🤖 Fire Fighting Robot *(Patent: 202541017699)*
+> Autonomous robot that detects and suppresses fires without human intervention.
+
+---
+
+## 🏆 Achievements
+
+- 🏅 **3× Patent Holder** — AI, Renewable Energy & Robotics
+- ☁️ **Salesforce Virtual Internship** — CRM & cloud platform experience
+- 🏆 **TCS ION Career Edge** — Young Professional Certification
+- 🤝 **NSS Volunteer** — Community service & leadership
+- 🌾 **CSR Projects @ ICCSPL** — Rural community development using KoboToolKit
+- 👨‍💼 **Team Lead & Project Manager** — Academic & technical competitions
 
 ---
 
@@ -55,11 +75,13 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https:linkedin.com/in/prudhvi-reddy-81b839295)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prudhvireddy00091@gmil.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prudhvi-reddy-81b839295/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prudhvireddy00091@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MACHUOALLIPRUDHVI)
 
 ---
 
 <p align="center">
-  <i>"Learning every day, building one project at a time."</i>
+  <i>"Learning every day, building one project at a time."</i><br/>
+  <sub>📍 Nellore, Andhra Pradesh · B.Tech CSE 2026 · Open to opportunities</sub>
 </p>
